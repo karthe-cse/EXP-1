@@ -73,7 +73,6 @@ a.   KVL:
 
 
 
-
 b.  KCL:
 
 ![17612055440654872659640642305517](https://github.com/user-attachments/assets/1f82e801-0eb0-4097-b510-fea756186d57)
